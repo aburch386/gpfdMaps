@@ -1,74 +1,72 @@
-{
-    "stations": [
-        {
-            "id":0,
-            "number":"1",
-            "name":"Station 1",
-            "stationId":"DlTiaid",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":1,
-            "number":"2",
-            "name":"Station 2",
-            "stationId":"rggQZB9",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":2,
-            "number":"3",
-            "name":"Station 3",
-            "stationId":"lVAFG8F",
-            "apartmentList":["iz3Aq8a","fCedy7W","GasdsjE","Z7beiFK","oFp7TCh","EK1KEXe","sZ6jD3L","QO5TO8h","oslAnw2","JCLwv1v","8ZQAkoZ","DAoZp4h","SneaSYe","Zlm283I","Xz8K1tR"]
-        },
-        {
-            "id":3,
-            "number":"4",
-            "name":"Station 4",
-            "stationId":"Npg18oM",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":4,
-            "number":"5",
-            "name":"Station 5",
-            "stationId":"KZbr9jV",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":5,
-            "number":"6",
-            "name":"Station 6",
-            "stationId":"riMtIxc",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":6,
-            "number":"7",
-            "name":"Station 7",
-            "stationId":"V1I0IIp",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":7,
-            "number":"8",
-            "name":"Station 8",
-            "stationId":"oPsIMJ8",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":8,
-            "number":"9",
-            "name":"Station 9",
-            "stationId":"xp6r54J",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        },
-        {
-            "id":9,
-            "number":"10",
-            "name":"Station 10",
-            "stationId":"kgwjn5s",
-            "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-        }
-    ]
-}
+[
+    {
+        "id":0,
+        "number":"1",
+        "name":"Station 1",
+        "stationId":"DlTiaid",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":1,
+        "number":"2",
+        "name":"Station 2",
+        "stationId":"rggQZB9",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":2,
+        "number":"3",
+        "name":"Station 3",
+        "stationId":"lVAFG8F",
+        "apartmentList":["iz3Aq8a","fCedy7W","GasdsjE","Z7beiFK","oFp7TCh","EK1KEXe","sZ6jD3L","QO5TO8h","oslAnw2","JCLwv1v","8ZQAkoZ","DAoZp4h","SneaSYe","Zlm283I","Xz8K1tR"]
+    },
+    {
+        "id":3,
+        "number":"4",
+        "name":"Station 4",
+        "stationId":"Npg18oM",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":4,
+        "number":"5",
+        "name":"Station 5",
+        "stationId":"KZbr9jV",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":5,
+        "number":"6",
+        "name":"Station 6",
+        "stationId":"riMtIxc",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":6,
+        "number":"7",
+        "name":"Station 7",
+        "stationId":"V1I0IIp",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":7,
+        "number":"8",
+        "name":"Station 8",
+        "stationId":"oPsIMJ8",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":8,
+        "number":"9",
+        "name":"Station 9",
+        "stationId":"xp6r54J",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    },
+    {
+        "id":9,
+        "number":"10",
+        "name":"Station 10",
+        "stationId":"kgwjn5s",
+        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+    }
+]
