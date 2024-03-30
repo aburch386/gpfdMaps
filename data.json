@@ -1,72 +1,365 @@
 [
     {
-        "id":0,
+        "id":1,
         "number":"1",
         "name":"Station 1",
         "stationId":"DlTiaid",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
-    },
-    {
-        "id":1,
-        "number":"2",
-        "name":"Station 2",
-        "stationId":"rggQZB9",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "apartmentList": [
+            {
+                "address": "1008 S Beltline Rd",
+                "id": "7dz7JkI"
+            },{
+                "address": "1015 S Beltline Rd",
+                "id": "IVepeqv"
+            },{
+                "address": "1109 N Carrier Pkwy (Section C)",
+                "id": "CHDjGoB"
+            },{
+                "address": "1109 N Carrier Pkwy (Section A & B)",
+                "id": "2QFBZw8"
+            },{
+                "address": "1610 Hill St",
+                "id": "QijUVkY"
+            },{
+                "address": "201 W Tarrant Rd",
+                "id": "ZCdHgAs"
+            },{
+                "address": "403 Small Hill St",
+                "id": "LiSdJ3v"
+            },{
+                "address": "417 W Tarrant Rd",
+                "id": "Sxy2fsV"
+            },{
+                "address": "531 S Beltline Rd",
+                "id": "Dj3GZZ1"
+            },{
+                "address": "606 W Palace Pkwy",
+                "id": "BFtwlr0"
+            }
+        ]
     },
     {
         "id":2,
-        "number":"3",
-        "name":"Station 3",
-        "stationId":"lVAFG8F",
-        "apartmentList":["iz3Aq8a","fCedy7W","GasdsjE","Z7beiFK","oFp7TCh","EK1KEXe","sZ6jD3L","QO5TO8h","oslAnw2","JCLwv1v","8ZQAkoZ","DAoZp4h","SneaSYe","Zlm283I","Xz8K1tR"]
+        "number":"2",
+        "name":"Station 2",
+        "stationId":"rggQZB9",
+        "apartmentList":[
+            {
+                "address": "1008 S Beltline Rd",
+                "id": "7dz7JkI"
+            }
+        ]
     },
     {
         "id":3,
-        "number":"4",
-        "name":"Station 4",
-        "stationId":"Npg18oM",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "number":"3",
+        "name":"Station 3",
+        "stationId":"lVAFG8F",
+        "apartmentList":[
+            {
+                "address": "1104 S Carrier Pkwy",
+                "id": "iz3Aq8a"
+            },{
+                "address": "1201 E Marshall Dr",
+                "id": "fCedy7W"
+            },{
+                "address": "1802 Robinson Rd",
+                "id": "GasdsjE"
+            },{
+                "address": "1933 S HWY 161 NB",
+                "id": "Z7beiFK"
+            },{
+                "address": "2422 S Carrier Pkwy",
+                "id": "oFp7TCh"
+            },{
+                "address": "2718 Sherman St",
+                "id": "EK1KEXe"
+            },{
+                "address": "2815 Osler Dr",
+                "id": "sZ6jD3L"
+            },{
+                "address": "313 Freetown Rd",
+                "id": "QO5TO8h"
+            },{
+                "address": "504 SW 23rd",
+                "id": "oslAnw2"
+            },{
+                "address": "513 Dickey Rd",
+                "id": "JCLwv1v"
+            },{
+                "address": "575 Dickey Rd",
+                "id": "8ZQAkoZ"
+            },{
+                "address": "700 Timber Oaks",
+                "id": "DAoZp4h"
+            },{
+                "address": "701 S Great Southwest Pkwy",
+                "id": "SneaSYe"
+            },{
+                "address": "915 Desco Ln",
+                "id": "Zlm283I"
+            }
+        ]
     },
     {
         "id":4,
-        "number":"5",
-        "name":"Station 5",
-        "stationId":"KZbr9jV",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "number":"4",
+        "name":"Station 4",
+        "stationId":"Npg18oM",
+        "apartmentList":[
+            {
+                "address": "950 Duncan Perry Rd",
+                "id": "Tz3M2x2"
+            },{
+                "address": "1050 N HWY 360",
+                "id": "nBhl4gq"
+            },{
+                "address": "1325 Daja Ln",
+                "id": "xpRhwnf"
+            },{
+                "address": "1450 N HWY 360",
+                "id": "PQAVh6Y"
+            },{
+                "address": "1551 N HWY 161 SB (Bldg 13-24)",
+                "id": "g4nL5xJ"
+            },{
+                "address": "1551 N HWY 161 SB (Bldg 1-12)",
+                "id": "er3Kw6H"
+            },{
+                "address": "1750 W Tarrant Rd",
+                "id": "IuDab0U"
+            },{
+                "address": "1919 W Tarrant Rd",
+                "id": "Riu4st6"
+            },{
+                "address": "1920 W Tarrant Rd",
+                "id": "8UWSNxP"
+            },{
+                "address": "1960 W Tarrant Rd",
+                "id": "UYvxVp8"
+            },{
+                "address": "2301 Avenue H (Bldg 1-13 & 23)",
+                "id": "NRgbrkg"
+            },{
+                "address": "2301 Avenue H (Bldg 14-22)",
+                "id": "Xknlm9U"
+            },{
+                "address": "2301 Dalworth",
+                "id": "KkWATWJ"
+            },{
+                "address": "2377 Dalworth",
+                "id": "oSLowpO"
+            },{
+                "address": "2701 Avenue K East",
+                "id": "0iX9zo7"
+            },{
+                "address": "2800 N Green Oaks",
+                "id": "LtOpmPI"
+            },{
+                "address": "3001 Avenue K",
+                "id": "xZJJaHt"
+            }
+        ]
     },
     {
         "id":5,
-        "number":"6",
-        "name":"Station 6",
-        "stationId":"riMtIxc",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "number":"5",
+        "name":"Station 5",
+        "stationId":"KZbr9jV",
+        "apartmentList":[
+            {
+                "address": "1008 S Beltline Rd",
+                "id": "7dz7JkI"
+            }
+        ]
     },
     {
         "id":6,
-        "number":"7",
-        "name":"Station 7",
-        "stationId":"V1I0IIp",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "number":"6",
+        "name":"Station 6",
+        "stationId":"riMtIxc",
+        "apartmentList":[
+            {
+                "address": "145 E Pioneer Pkwy",
+                "id": "QOlu9v3"
+            },{
+                "address": "501 E Pioneer Pkwy",
+                "id": "VJ6SnpT"
+            },{
+                "address": "602 W Pioneer Pkwy",
+                "id": "qWjvrpr"
+            },{
+                "address": "720 E Warrior Tr",
+                "id": "ETkqxii"
+            },{
+                "address": "1658 S Forum Dr",
+                "id": "FNOHPe0"
+            },{
+                "address": "1661 S Forum Dr",
+                "id": "l53FDQz"
+            },{
+                "address": "2305 Corn Valley Rd",
+                "id": "UapeIFw"
+            },{
+                "address": "2902 S Beltline Rd",
+                "id": "2rsf9on"
+            },{
+                "address": "3001 S Carrier Pkwy",
+                "id": "UT873s3"
+            },{
+                "address": "3517 SE 8th St",
+                "id": "SFpYYZw"
+            },{
+                "address": "3550 Robinson Rd",
+                "id": "TXrjXb1"
+            },{
+                "address": "Mountain Creek Townhomes (East Addresses)",
+                "id": "bEQcpKH"
+            },{
+                "address": "Mountain Creek Townhomes (West Addresses)",
+                "id": "JcJrCLz"
+            }
+        ]
     },
     {
         "id":7,
-        "number":"8",
-        "name":"Station 8",
-        "stationId":"oPsIMJ8",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "number":"7",
+        "name":"Station 7",
+        "stationId":"V1I0IIp",
+        "apartmentList":[
+            {
+                "address": "3655 Prairie Waters Dr",
+                "id": "ewDduPA"
+            },{
+                "address": "3145 Lynn Creek Pkwy",
+                "id": "LT9rfhz"
+            },{
+                "address": "6310 SH 360 NB",
+                "id": "2R2XKWm"
+            },{
+                "address": "Loyd Park",
+                "id": "RUsYisJ"
+            },{
+                "address": "3145 Lynn Creek Pkwy",
+                "id": "c5df7ZK"
+            },{
+                "address": "Lynn Creek Park",
+                "id": "4bx1n6a"
+            },{
+                "address": "4950 Prairie Ranch Dr",
+                "id": "EFJscRW"
+            },{
+                "address": "3013 Doryn Dr",
+                "id": "PsfXCyL"
+            },{
+                "address": "Aura 3Fifty-One",
+                "id": "d0mTIOY"
+            }
+        ]
     },
     {
         "id":8,
-        "number":"9",
-        "name":"Station 9",
-        "stationId":"xp6r54J",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "number":"8",
+        "name":"Station 8",
+        "stationId":"oPsIMJ8",
+        "apartmentList":[
+            {
+                "address": "2355 N HWY 360",
+                "id": "I4ACE41"
+            },{
+                "address": "2502 Riverside Dr",
+                "id": "Ecspthl"
+            },{
+                "address": "2701 Heather Hill Ct",
+                "id": "6q1yknV"
+            },{
+                "address": "2770 N HWY 360 NB",
+                "id": "SHcveuD"
+            },{
+                "address": "1991 SH 360 SB",
+                "id": "NgiDigM"
+            },{
+                "address": "2625 N HWY 360 SB",
+                "id": "wMY3F9W"
+            },{
+                "address": "2775 N HWY 360 SB",
+                "id": "6KslLw4"
+            },{
+                "address": "2175 N HWY 360 SB",
+                "id": "7U3Y8OJ"
+            },{
+                "address": "2825 N HWY 360 SB",
+                "id": "CPTTEbl"
+            },{
+                "address": "2651 Stone Lake Dr",
+                "id": "4XaYs0Y"
+            },{
+                "address": "2803 Riverside Dr - Part 1",
+                "id": "ghjwlyc"
+            },{
+                "address": "2803 Riverside Dr - Part 2",
+                "id": "xTGRys9"
+            }
+        ]
     },
     {
         "id":9,
+        "number":"9",
+        "name":"Station 9",
+        "stationId":"xp6r54J",
+        "apartmentList":[
+            {
+                "address": "1215 W IH-20 SVC Rd",
+                "id": "n7gjyc7"
+            },{
+                "address": "3950 Dechman Rd",
+                "id": "v74AfTZ"
+            },{
+                "address": "4210 Dechman Dr",
+                "id": "cQx5jGB"
+            },{
+                "address": "525 W Westchester Pkwy",
+                "id": "oYg38ED"
+            },{
+                "address": "440 E Polo Rd",
+                "id": "dDn2xu0"
+            },{
+                "address": "540 E Polo Rd",
+                "id": "6LvcQpA"
+            },{
+                "address": "605 E Fish Creek Rd",
+                "id": "HaAwHEw"
+            },{
+                "address": "620 W Westchester Pkwy",
+                "id": "BogMJMp"
+            }
+        ]
+    },
+    {
+        "id":10,
         "number":"10",
         "name":"Station 10",
         "stationId":"kgwjn5s",
-        "apartmentList":["7dz7JkI","IVepeqv","CHDjGoB","2QFBZw8","QijUVkY","ZCdHgAs","LiSdJ3v","Sxy2fsV","Dj3GZZ1","BFtwlr0"]
+        "apartmentList":[
+            {
+                "address": "2629 S. Grand Peninsula",
+                "id": "houMIKQ"
+            },{
+                "address": "3850 Double Oak Ave",
+                "id": "gzo1VvY"
+            },{
+                "address": "6310 S. SH 360",
+                "id": "oORgjeF"
+            },{
+                "address": "7165 Lake Ridge Pkwy",
+                "id": "vlvoHHu"
+            },{
+                "address": "7402 Lakeridge Pkwy",
+                "id": "ekZmvku"
+            },{
+                "address": "10860 Davis Rd",
+                "id": "k0dePsq"
+            }
+        ]
     }
 ]
