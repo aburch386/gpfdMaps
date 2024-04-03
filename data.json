@@ -3,38 +3,49 @@
         "id":1,
         "number":"1",
         "name":"Station 1",
-        "stationId":"DlTiaid",
+        "image":"/images/District 1.jpg",
+        "stationId":"District 1",
         "apartmentList": [
             {
-                "address": "1008 S Beltline Rd",
-                "id": "7dz7JkI"
+                "address": "1008 S Beltline (Fox Hollow)",
+                "fileType": ".png",
+                "id": "1"
             },{
-                "address": "1015 S Beltline Rd",
-                "id": "IVepeqv"
+                "address": "1015 S Beltline (Cotton Creek)",
+                "fileType": ".png",
+                "id": "2"
             },{
-                "address": "1109 N Carrier Pkwy (Section C)",
-                "id": "CHDjGoB"
+                "address": "1109 N Carrier (Section C)",
+                "fileType": ".png",
+                "id": "3"
             },{
-                "address": "1109 N Carrier Pkwy (Section A & B)",
-                "id": "2QFBZw8"
+                "address": "1109 N Carrier (Section A & B)",
+                "fileType": ".png",
+                "id": "4"
             },{
-                "address": "1610 Hill St",
-                "id": "QijUVkY"
+                "address": "1610 Hill",
+                "fileType": ".png",
+                "id": "5"
             },{
                 "address": "201 W Tarrant Rd",
-                "id": "ZCdHgAs"
+                "fileType": ".png",
+                "id": "6"
             },{
                 "address": "403 Small Hill St",
-                "id": "LiSdJ3v"
+                "fileType": ".png",
+                "id": "7"
             },{
                 "address": "417 W Tarrant Rd",
-                "id": "Sxy2fsV"
+                "fileType": ".png",
+                "id": "8"
             },{
-                "address": "531 S Beltline Rd",
-                "id": "Dj3GZZ1"
+                "address": "531 S Beltline (Carrier Arms)",
+                "fileType": ".png",
+                "id": "9"
             },{
-                "address": "606 W Palace Pkwy",
-                "id": "BFtwlr0"
+                "address": "606 W Palace Pkwy (Derby Park)",
+                "fileType": ".png",
+                "id": "10"
             }
         ]
     },
@@ -42,11 +53,13 @@
         "id":2,
         "number":"2",
         "name":"Station 2",
-        "stationId":"rggQZB9",
+        "image":"/images/District 2.jpg",
+        "stationId":"District 2",
         "apartmentList":[
             {
-                "address": "1008 S Beltline Rd",
-                "id": "7dz7JkI"
+                "address": "",
+                "fileType": ".png",
+                "id": "11"
             }
         ]
     },
@@ -54,50 +67,65 @@
         "id":3,
         "number":"3",
         "name":"Station 3",
-        "stationId":"lVAFG8F",
+        "image":"/images/District 3.jpg",
+        "stationId":"District 3",
         "apartmentList":[
             {
-                "address": "1104 S Carrier Pkwy",
-                "id": "iz3Aq8a"
+                "address": "1104 S Carrier - Wright Senior Apartments",
+                "fileType": ".png",
+                "id": "12"
             },{
-                "address": "1201 E Marshall Dr",
-                "id": "fCedy7W"
+                "address": "1201 E Marshall Dr - Donna Lynn",
+                "fileType": ".png",
+                "id": "13"
             },{
-                "address": "1802 Robinson Rd",
-                "id": "GasdsjE"
+                "address": "1802 Robinson Rd - Willow Tree",
+                "fileType": ".png",
+                "id": "14"
             },{
-                "address": "1933 S HWY 161 NB",
-                "id": "Z7beiFK"
+                "address": "1933 S Hwy 161 NB - Treetop",
+                "fileType": ".png",
+                "id": "15"
             },{
-                "address": "2422 S Carrier Pkwy",
-                "id": "oFp7TCh"
+                "address": "2422 S Carrier - The Gibson",
+                "fileType": ".png",
+                "id": "16"
             },{
-                "address": "2718 Sherman St",
-                "id": "EK1KEXe"
+                "address": "2718 Sherman St - Rose Garden",
+                "fileType": ".png",
+                "id": "17"
             },{
-                "address": "2815 Osler Dr",
-                "id": "sZ6jD3L"
+                "address": "2815 Osler - The Destino",
+                "fileType": ".png",
+                "id": "18"
             },{
-                "address": "313 Freetown Rd",
-                "id": "QO5TO8h"
+                "address": "313 Freetown Rd - Prairie Ridge",
+                "fileType": ".png",
+                "id": "19"
             },{
-                "address": "504 SW 23rd",
-                "id": "oslAnw2"
+                "address": "504 SW 23rd - Clayton_s Mark",
+                "fileType": ".png",
+                "id": "20"
             },{
-                "address": "513 Dickey Rd",
-                "id": "JCLwv1v"
+                "address": "513 Dickey Rd - Serrano Creek",
+                "fileType": ".png",
+                "id": "21"
             },{
-                "address": "575 Dickey Rd",
-                "id": "8ZQAkoZ"
+                "address": "575 Dickey Rd - Cottonwood Park Village",
+                "fileType": ".png",
+                "id": "22"
             },{
-                "address": "700 Timber Oaks",
-                "id": "DAoZp4h"
+                "address": "700 Timber Oaks Ln - Timber Oaks",
+                "fileType": ".png",
+                "id": "23"
             },{
-                "address": "701 S Great Southwest Pkwy",
-                "id": "SneaSYe"
+                "address": "701 S Great Southwest Pkwy - Parkway Villas",
+                "fileType": ".png",
+                "id": "24"
             },{
-                "address": "915 Desco Ln",
-                "id": "Zlm283I"
+                "address": "915 Desco Ln - Carrier Parkway Apartments",
+                "fileType": ".png",
+                "id": "25"
             }
         ]
     },
@@ -105,59 +133,77 @@
         "id":4,
         "number":"4",
         "name":"Station 4",
-        "stationId":"Npg18oM",
+        "image":"/images/District 4.jpg",
+        "stationId":"District 4",
         "apartmentList":[
             {
-                "address": "950 Duncan Perry Rd",
-                "id": "Tz3M2x2"
+                "address": "950 Duncan Perry (Sugar Creek)",
+                "fileType": ".png",
+                "id": "26"
             },{
                 "address": "1050 N HWY 360",
-                "id": "nBhl4gq"
+                "fileType": ".png",
+                "id": "27"
             },{
                 "address": "1325 Daja Ln",
-                "id": "xpRhwnf"
+                "fileType": ".png",
+                "id": "28"
             },{
                 "address": "1450 N HWY 360",
-                "id": "PQAVh6Y"
+                "fileType": ".png",
+                "id": "29"
             },{
                 "address": "1551 N HWY 161 SB (Bldg 13-24)",
-                "id": "g4nL5xJ"
+                "fileType": ".png",
+                "id": "30"
             },{
                 "address": "1551 N HWY 161 SB (Bldg 1-12)",
-                "id": "er3Kw6H"
+                "fileType": ".png",
+                "id": "31"
             },{
                 "address": "1750 W Tarrant Rd",
-                "id": "IuDab0U"
+                "fileType": ".png",
+                "id": "32"
             },{
                 "address": "1919 W Tarrant Rd",
-                "id": "Riu4st6"
+                "fileType": ".png",
+                "id": "33"
             },{
                 "address": "1920 W Tarrant Rd",
-                "id": "8UWSNxP"
+                "fileType": ".png",
+                "id": "34"
             },{
                 "address": "1960 W Tarrant Rd",
-                "id": "UYvxVp8"
+                "fileType": ".png",
+                "id": "35"
             },{
                 "address": "2301 Avenue H (Bldg 1-13 & 23)",
-                "id": "NRgbrkg"
+                "fileType": ".png",
+                "id": "36"
             },{
                 "address": "2301 Avenue H (Bldg 14-22)",
-                "id": "Xknlm9U"
+                "fileType": ".png",
+                "id": "37"
             },{
                 "address": "2301 Dalworth",
-                "id": "KkWATWJ"
+                "fileType": ".png",
+                "id": "38"
             },{
                 "address": "2377 Dalworth",
-                "id": "oSLowpO"
+                "fileType": ".png",
+                "id": "39"
             },{
                 "address": "2701 Avenue K East",
-                "id": "0iX9zo7"
+                "fileType": ".png",
+                "id": "40"
             },{
-                "address": "2800 N Green Oaks",
-                "id": "LtOpmPI"
+                "address": "2800 N Green Oaks Riverside Place",
+                "fileType": ".png",
+                "id": "41"
             },{
                 "address": "3001 Avenue K",
-                "id": "xZJJaHt"
+                "fileType": ".png",
+                "id": "42"
             }
         ]
     },
@@ -165,11 +211,137 @@
         "id":5,
         "number":"5",
         "name":"Station 5",
-        "stationId":"KZbr9jV",
+        "image":"/images/District 5.jpg",
+        "stationId":"District 5",
         "apartmentList":[
             {
-                "address": "1008 S Beltline Rd",
-                "id": "7dz7JkI"
+                "address": "2015 S Forum The Royalton at GP",
+                "fileType": ".png",
+                "id": "43"
+            },{
+                "address": "2030 S Forum Dr.-Avilla Heritage",
+                "fileType": ".png",
+                "id": "44"
+            },{
+                "address": "2045 S Forum Dr.-Copeland",
+                "fileType": ".png",
+                "id": "45"
+            },{
+                "address": "2105 S Forum - Corsair",
+                "fileType": ".png",
+                "id": "46"
+            },{
+                "address": "2136 Sara Jane Pkwy Springs at GP",
+                "fileType": ".png",
+                "id": "47"
+            },{
+                "address": "2155 W Arkansas - Viceroy",
+                "fileType": ".png",
+                "id": "48"
+            },{
+                "address": "2250 Sara Jane Pkwy-Winding Creek",
+                "fileType": ".png",
+                "id": "49"
+            },{
+                "address": "2255 W Arkansas-Bexley",
+                "fileType": ".png",
+                "id": "50"
+            },{
+                "address": "2403 W Pioneer-Ashton Park",
+                "fileType": ".png",
+                "id": "51"
+            },{
+                "address": "2425 Bardin",
+                "fileType": ".png",
+                "id": "52"
+            },{
+                "address": "2530 Sara Jane Pkwy-Parkways on Prairie Creek",
+                "fileType": ".png",
+                "id": "53"
+            },{
+                "address": "2650 S Forum Dr-Forum at GP",
+                "fileType": ".png",
+                "id": "54"
+            },{
+                "address": "2755 W IH 20 EB-Quad",
+                "fileType": ".png",
+                "id": "55"
+            },{
+                "address": "2770 W Bardin Rd-Sheffield Square",
+                "fileType": ".png",
+                "id": "56"
+            },{
+                "address": "2901 Mayfield-Mission Mayfield",
+                "fileType": ".png",
+                "id": "57"
+            },{
+                "address": "2935 Alouette-Clayton Point",
+                "fileType": ".png",
+                "id": "58"
+            },{
+                "address": "3000 Bardin-3000 at Bardin",
+                "fileType": ".png",
+                "id": "59"
+            },{
+                "address": "3030 Claremont-Arrioso",
+                "fileType": ".png",
+                "id": "60"
+            },{
+                "address": "3033 W Bardin-Indigo Point",
+                "fileType": ".png",
+                "id": "61"
+            },{
+                "address": "3056 Commodore-Hunters Cove",
+                "fileType": ".png",
+                "id": "62"
+            },{
+                "address": "3090 Outlet Pkwy-The Watsons",
+                "fileType": ".png",
+                "id": "63"
+            },{
+                "address": "3099 Parham Dr.-Windscape",
+                "fileType": ".png",
+                "id": "64"
+            },{
+                "address": "3500 S GSW-Avilla Traditions",
+                "fileType": ".png",
+                "id": "65"
+            },{
+                "address": "3500 S GSW-Avilla Traditions",
+                "fileType": ".png",
+                "id": "66"
+            },{
+                "address": "3500 S GSW-Avilla Traditions",
+                "fileType": ".png",
+                "id": "67"
+            },{
+                "address": "3711 S Hwy 161 SB",
+                "fileType": ".png",
+                "id": "68"
+            },{
+                "address": "4330 S SH 360 Compass storage",
+                "fileType": ".png",
+                "id": "69"
+            },{
+                "address": "Silverbrook East",
+                "fileType": ".png",
+                "id": "70"
+            },{
+                "address": "Silverbrook West",
+                "fileType": ".png",
+                "id": "71"
+            },{
+                "address": "Toccata",
+                "fileType": ".png",
+                "id": "72"
+            },{
+                "address": "Traders Village RV Lots",
+                "fileType": ".jpg",
+                "id": "73"
+            },{
+                "address": "Villas Central Park",
+                "fileType": ".png",
+                "id": "74"
             }
         ]
     },
@@ -177,47 +349,65 @@
         "id":6,
         "number":"6",
         "name":"Station 6",
-        "stationId":"riMtIxc",
+        "image":"/images/District 6.jpg",
+        "stationId":"District 6",
         "apartmentList":[
             {
-                "address": "145 E Pioneer Pkwy",
-                "id": "QOlu9v3"
+                "address": "145 E Pioneer Pkwy - Sunridge",
+                "fileType": ".png",
+                "id": "75"
             },{
-                "address": "501 E Pioneer Pkwy",
-                "id": "VJ6SnpT"
+                "address": "501 E Pioneer Pkwy - Windchase",
+                "fileType": ".png",
+                "id": "76"
             },{
-                "address": "602 W Pioneer Pkwy",
-                "id": "qWjvrpr"
+                "address": "602 W Pioneer - Marabella",
+                "fileType": ".png",
+                "id": "77"
             },{
-                "address": "720 E Warrior Tr",
-                "id": "ETkqxii"
+                "address": "702 W Warrior Tr",
+                "fileType": ".png",
+                "id": "78"
             },{
-                "address": "1658 S Forum Dr",
-                "id": "FNOHPe0"
+                "address": "720 E Warrior Tr - Quail Crossing",
+                "fileType": ".png",
+                "id": "79"
             },{
-                "address": "1661 S Forum Dr",
-                "id": "l53FDQz"
+                "address": "1658 S Forum Dr - Sutherland",
+                "fileType": ".png",
+                "id": "80"
             },{
-                "address": "2305 Corn Valley Rd",
-                "id": "UapeIFw"
+                "address": "1661 S Forum Dr - Alta Grand Crossing",
+                "fileType": ".png",
+                "id": "81"
             },{
-                "address": "2902 S Beltline Rd",
-                "id": "2rsf9on"
+                "address": "2305 Corn Valley Rd - Mtn Creek Retirement",
+                "fileType": ".png",
+                "id": "82"
             },{
-                "address": "3001 S Carrier Pkwy",
-                "id": "UT873s3"
+                "address": "2902 S Beltline - The Retreat Senior Living",
+                "fileType": ".png",
+                "id": "83"
             },{
-                "address": "3517 SE 8th St",
-                "id": "SFpYYZw"
+                "address": "3001 S Carrier Pkwy - Wymberly Crossing",
+                "fileType": ".png",
+                "id": "84"
             },{
-                "address": "3550 Robinson Rd",
-                "id": "TXrjXb1"
+                "address": "3517 SE 8th - Highlands of Grand Prairie",
+                "fileType": ".png",
+                "id": "85"
+            },{
+                "address": "3550 Robinson Rd - The Duval",
+                "fileType": ".png",
+                "id": "86"
             },{
                 "address": "Mountain Creek Townhomes (East Addresses)",
-                "id": "bEQcpKH"
+                "fileType": ".png",
+                "id": "87"
             },{
                 "address": "Mountain Creek Townhomes (West Addresses)",
-                "id": "JcJrCLz"
+                "fileType": ".png",
+                "id": "88"
             }
         ]
     },
@@ -225,35 +415,41 @@
         "id":7,
         "number":"7",
         "name":"Station 7",
-        "stationId":"V1I0IIp",
+        "image":"/images/District 7.jpg",
+        "stationId":"District 7",
         "apartmentList":[
             {
                 "address": "3655 Prairie Waters Dr",
-                "id": "ewDduPA"
+                "fileType": ".jpg",
+                "id": "89"
             },{
                 "address": "3145 Lynn Creek Pkwy",
-                "id": "LT9rfhz"
+                "fileType": ".png",
+                "id": "90"
             },{
                 "address": "6310 SH 360 NB",
-                "id": "2R2XKWm"
+                "fileType": ".jpg",
+                "id": "91"
             },{
-                "address": "Loyd Park",
-                "id": "RUsYisJ"
+                "address": "Loyd Park Lake Map",
+                "fileType": ".jpg",
+                "id": "92"
             },{
-                "address": "3145 Lynn Creek Pkwy",
-                "id": "c5df7ZK"
-            },{
-                "address": "Lynn Creek Park",
-                "id": "4bx1n6a"
+                "address": "Lynn Creek Lake Map",
+                "fileType": ".jpg",
+                "id": "93"
             },{
                 "address": "4950 Prairie Ranch Dr",
-                "id": "EFJscRW"
+                "fileType": ".jpg",
+                "id": "94"
             },{
                 "address": "3013 Doryn Dr",
-                "id": "PsfXCyL"
+                "fileType": ".jpg",
+                "id": "95"
             },{
                 "address": "Aura 3Fifty-One",
-                "id": "d0mTIOY"
+                "fileType": ".jpg",
+                "id": "96"
             }
         ]
     },
@@ -261,44 +457,57 @@
         "id":8,
         "number":"8",
         "name":"Station 8",
-        "stationId":"oPsIMJ8",
+        "image":"/images/District 8.jpg",
+        "stationId":"District 8",
         "apartmentList":[
             {
-                "address": "2355 N HWY 360",
-                "id": "I4ACE41"
+                "address": "2355 N HWY 360 SB",
+                "fileType": ".png",
+                "id": "97"
             },{
-                "address": "2502 Riverside Dr",
-                "id": "Ecspthl"
+                "address": "2502 Riverside",
+                "fileType": ".png",
+                "id": "98"
             },{
                 "address": "2701 Heather Hill Ct",
-                "id": "6q1yknV"
+                "fileType": ".png",
+                "id": "99"
             },{
                 "address": "2770 N HWY 360 NB",
-                "id": "SHcveuD"
+                "fileType": ".png",
+                "id": "100"
             },{
                 "address": "1991 SH 360 SB",
-                "id": "NgiDigM"
+                "fileType": ".png",
+                "id": "101"
             },{
                 "address": "2625 N HWY 360 SB",
-                "id": "wMY3F9W"
+                "fileType": ".png",
+                "id": "102"
             },{
                 "address": "2775 N HWY 360 SB",
-                "id": "6KslLw4"
+                "fileType": ".png",
+                "id": "103"
             },{
                 "address": "2175 N HWY 360 SB",
-                "id": "7U3Y8OJ"
+                "fileType": ".png",
+                "id": "104"
             },{
                 "address": "2825 N HWY 360 SB",
-                "id": "CPTTEbl"
+                "fileType": ".png",
+                "id": "105"
             },{
                 "address": "2651 Stone Lake Dr",
-                "id": "4XaYs0Y"
+                "fileType": ".png",
+                "id": "106"
             },{
-                "address": "2803 Riverside Dr - Part 1",
-                "id": "ghjwlyc"
+                "address": "2803 Riverside Dr - North",
+                "fileType": ".png",
+                "id": "107"
             },{
-                "address": "2803 Riverside Dr - Part 2",
-                "id": "xTGRys9"
+                "address": "2803 Riverside Dr - South",
+                "fileType": ".png",
+                "id": "108"
             }
         ]
     },
@@ -306,32 +515,41 @@
         "id":9,
         "number":"9",
         "name":"Station 9",
-        "stationId":"xp6r54J",
+        "image":"/images/District 9.jpg",
+        "stationId":"District 9",
         "apartmentList":[
             {
-                "address": "1215 W IH-20 SVC Rd",
-                "id": "n7gjyc7"
+                "address": "1215 W IH-20",
+                "fileType": ".png",
+                "id": "109"
             },{
-                "address": "3950 Dechman Rd",
-                "id": "v74AfTZ"
+                "address": "3950 Dechman",
+                "fileType": ".png",
+                "id": "110"
             },{
-                "address": "4210 Dechman Dr",
-                "id": "cQx5jGB"
+                "address": "4210 Dechman",
+                "fileType": ".png",
+                "id": "111"
             },{
-                "address": "525 W Westchester Pkwy",
-                "id": "oYg38ED"
+                "address": "525 W Westchester Pkwy - Grand Courtyard",
+                "fileType": ".png",
+                "id": "113"
             },{
                 "address": "440 E Polo Rd",
-                "id": "dDn2xu0"
+                "fileType": ".png",
+                "id": "114"
             },{
                 "address": "540 E Polo Rd",
-                "id": "6LvcQpA"
+                "fileType": ".png",
+                "id": "115"
             },{
                 "address": "605 E Fish Creek Rd",
-                "id": "HaAwHEw"
+                "fileType": ".png",
+                "id": "116"
             },{
                 "address": "620 W Westchester Pkwy",
-                "id": "BogMJMp"
+                "fileType": ".png",
+                "id": "117"
             }
         ]
     },
@@ -339,26 +557,33 @@
         "id":10,
         "number":"10",
         "name":"Station 10",
-        "stationId":"kgwjn5s",
+        "image":"/images/District 10.jpg",
+        "stationId":"District 10",
         "apartmentList":[
             {
-                "address": "2629 S. Grand Peninsula",
-                "id": "houMIKQ"
+                "address": "2629 S Grand Peninsula - Enclave At Mira Lagos",
+                "fileType": ".png",
+                "id": "118"
             },{
-                "address": "3850 Double Oak Ave",
-                "id": "gzo1VvY"
+                "address": "3850 Double Oak",
+                "fileType": ".png",
+                "id": "119"
             },{
-                "address": "6310 S. SH 360",
-                "id": "oORgjeF"
+                "address": "6310 S Hwy 360 Bexley Mansfield",
+                "fileType": ".png",
+                "id": "120"
             },{
                 "address": "7165 Lake Ridge Pkwy",
-                "id": "vlvoHHu"
+                "fileType": ".png",
+                "id": "121"
             },{
                 "address": "7402 Lakeridge Pkwy",
-                "id": "ekZmvku"
+                "fileType": ".png",
+                "id": "122"
             },{
-                "address": "10860 Davis Rd",
-                "id": "k0dePsq"
+                "address": "10860 Davis",
+                "fileType": ".png",
+                "id": "123"
             }
         ]
     }
